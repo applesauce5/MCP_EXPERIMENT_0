@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "databricks-finance-server": {
+      "command": "python",
+      "args": ["C:/Users/Matthew/CODEnSTUFF/MCP_EXPERIMENT_0/mcp_server.py"]
+    }
+  }
+}
